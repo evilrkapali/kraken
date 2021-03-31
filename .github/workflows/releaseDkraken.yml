@@ -1,4 +1,4 @@
-yname: release-D-kraken
+name: release-D-kraken
 
 on:
   push:
