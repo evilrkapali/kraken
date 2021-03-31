@@ -19,4 +19,4 @@ jobs:
       - name: Building the kraken
         run: npm install && npm run build
       - name: releasing D kraken to bucket
-        run: aws s3 sync ./dist/ s3://testingkraken --delete
+        run: aws s3 sync . s3://testingkraken --delete
