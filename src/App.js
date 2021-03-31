@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://apple.com"
+          href="https://apple.com.np/whatzuppppppppppppppppp"
           target="_blank"
           rel="noopener noreferrer"
         >
